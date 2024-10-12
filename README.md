@@ -1,16 +1,17 @@
-![Android Apps and Software Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/462707970_3840667269588034_1005002290170739332_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sYuavH8ToIMQ7kNvgETkPDa&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AgCiwvPm253eRX4F7HAJ9nk&oh=00_AYDsVNzUseA2fZEOHAD3SlczhWn94z5uccAX9pBfZkchmg&oe=6710A053)
+![Android Apps and Software Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/462768928_3840690832919011_2694419551862204853_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xMygborPJhIQ7kNvgFW0I64&_nc_ht=scontent.fdac24-2.fna&_nc_gid=AoegB0AV0qDEXStuwvwphXR&oh=00_AYD-eRkNiO0DJ2g-_Z4p7og6yWTVKREpfn9WWOBKEpc6xw&oe=6710B293)
 
 ### Hi there 👋, Zubayer Ahmad here
 #### Android Apps and Software Developer
 
-I'm a creator who loves to visualize his ideas through his creativity and help others through them.
-Skills: Android App Development/Java
+I'm a creator who loves to visualize his ideas with his creativity and help others through them.
 
-- 🔭 I’m currently working on self skill development 
-- 🌱 I’m currently learning Android app development in Android studio and java and python as language 
+Skills:  Android App Development/Java
+
+- 🔭 I’m currently working on self skill development  
+- 🌱 I’m currently learning  Android app development in Android studio and java and python as language  
 - 👯 I’m looking to collaborate on All the githubians and App developers to upskill me at any needs 
-- 🤔 I’m looking for help with All the githubians and App developers to upskill me at any needs of mine 
-- 💬 Ask me about Anything but don't get personal unless it's attacking 
+- 🤔 I’m looking for help with All the githubians and App developers to upskill me at any needs of mine  
+- 💬 Ask me about  Anything but don't get personal unless it's attacking 
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100009343962144 
 - 😄 Pronouns: Zubu 
 - ⚡ Fun fact: I'm not engaged 
@@ -26,11 +27,12 @@ Skills: Android App Development/Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xubayer001&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/xubayer001/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/xubayer001)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=xubayer001)  
+
+
+
 
 
 
